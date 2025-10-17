@@ -22,7 +22,7 @@ I'm a **Backend Developer** passionate about building scalable systems and writi
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🎬 [Video Distribution Platform](https://github.com/Rotisary/Indie-Distro) | A scalable platform for video processing and delivery | Django REST Framework, JWT, Celery, Redis, DigitalOcean |
+| 🎬 [Indie Distro](https://github.com/Rotisary/Indie-Distro) | A scalable platform for video processing and delivery | Django REST Framework, JWT, Celery, Redis, DigitalOcean |
 | 🩺 [Meet API](https://github.com/Rotisary/meet-API) | An online medical consultation system | Django REST Framework, JWT, PostgreSQL |
 
 ---
